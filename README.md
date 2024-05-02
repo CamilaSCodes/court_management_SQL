@@ -19,7 +19,7 @@ CDMS offers a centralized database schema built on PostgreSQL, incorporating bes
 - `party_type`: Defines various types of parties involved in legal cases.
 - `email`: Stores email addresses related to parties.
 - `place`: Stores address details related to parties.
-### Relatinship tables
+### Relationship tables
 - `possesses`: Manages possession relationships between parties and party types.
 - `owns`: Manages ownership relationships between parties and email addresses.
 - `assigned`: Stores assignments of parties to cases.

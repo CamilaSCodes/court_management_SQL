@@ -3,6 +3,8 @@
 ## Logical and conceptual database models, SQL scripts, and ERD for the database schema of a court management system
 The Court Database Management System (CDMS) aims to provide a structured database schema for efficiently managing legal cases, parties involved, court information, notices, and their relationships. It is designed to be scalable and adaptable to different legal environments.
 
+[![repo](https://img.shields.io/badge/repo-teal?style=plastic&logo=github&logoColor=008080&labelColor=white)](https://github.com/CamilaSCodes/court_management_SQL) &ensp; **Court Database Management** &emsp; | &emsp;  [![repo](https://img.shields.io/badge/repo-teal?style=plastic&logo=github&logoColor=008080&labelColor=white)](https://github.com/CamilaSCodes/school_management_SQL) &ensp; School Database Management
+
 ## Overview
 Legal proceedings often involve complex and voluminous data, making it challenging for legal professionals to manage cases effectively. Existing manual or disparate systems lead to inefficiencies, such as data redundancy, information silos, and cumbersome communication channels. Moreover, ensuring compliance with legal regulations and deadlines poses significant operational risks without a robust system in place. Addressing these challenges requires a centralized, scalable, and user-friendly solution tailored to the needs of legal practitioners.
 
